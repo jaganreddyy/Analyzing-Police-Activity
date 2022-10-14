@@ -1,6 +1,7 @@
 Analyzing Police Activity
 
-Skills involved: Python Exploratory Analysis, Pandas, Matplotlib, Seaborn.                              
+Skills involved: Python Exploratory Analysis, Pandas, Matplotlib, Seaborn.
+
 Explored the 'Stanford Open Policing Project dataset' to answer these and other questions by analyzing the dataset.
 Impact of gender on police behavior? 
 If drug-related stops on the rise?
